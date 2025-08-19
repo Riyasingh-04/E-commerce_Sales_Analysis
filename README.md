@@ -22,10 +22,10 @@ Our curated dataset provides a detailed view of **e-commerce transactions, produ
 
 The **Power BI Dashboard** transforms raw data into interactive visualizations that highlight:  
 
-- **📅 Sales by Month:** Analyze monthly revenue and identify seasonal peaks.  
-- **📦 Product Category Insights:** See which product categories perform best.  
-- **⏰ Sales by Time of Day:** Track when customers shop most actively.  
-- **👥 Customer Behavior:** Understand top customers and repeat buyers.  
+- **Sales by Month:** Analyze monthly revenue and identify seasonal peaks.  
+- **Product Category Insights:** See which product categories perform best.  
+- **Sales by Time of Day:** Track when customers shop most actively.  
+- **Customer Behavior:** Understand top customers and repeat buyers.  
 
 The dashboard empowers users to explore data intuitively and make informed, data-driven decisions.  
 
