@@ -34,5 +34,3 @@ The dashboard empowers users to explore data intuitively and make informed, data
 - **Power BI** → Dashboard design & visualization  
 - **CSV Datasets** (`Orders.csv`, `Details.csv`) → Raw sales and product data  
 - **Data Cleaning & Modeling** → Preprocessing for accurate analysis  
-
-## 📂 Project Files  
